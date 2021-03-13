@@ -1,7 +1,7 @@
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
 
-Dear Recuiter,
+
 
 Make sure to do the followings:
 
